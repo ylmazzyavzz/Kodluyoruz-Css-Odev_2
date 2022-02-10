@@ -1,0 +1,64 @@
+/* Google logo class */
+.ortala{
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Google logosunun altındaki kısım için classlar */
+.container{
+    width: 756px;
+    height: 140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.search{
+    width: 754px;
+    height: 62px;
+    background-color: #EEEEEE;
+    margin-bottom: 3px;
+}
+
+.content{
+    width: 754px;
+    height: 76px;    
+}
+
+.kutu-1{
+    width: 37%;
+    height:76px ;
+    background-color: #7EE5DA;
+    float: left;
+}
+
+.kutu-2{
+    width: 144.7px;
+    height: 76px;
+    background-color: #70CCC2;
+    float: left;
+    font-size: 13px;
+    margin-left: 2px;  
+}
+
+.kutu-3{
+    width: 326.35px;
+    height: 76px;
+    background-color: #62B3AA;
+    float: left;
+    font-size: 13px;
+    margin-left: 2px;   
+}
+
+/* listeler İçin Oluşturulan Class */
+.ul{
+    padding: 1px 0 0 10px;
+    list-style-type: none;
+    margin:0 auto;
+}
+
+/* Copyright ©1998 Google Inc. Yazısı İçin   */
+.footerli{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 13px;
+}
